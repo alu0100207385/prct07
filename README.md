@@ -4,7 +4,7 @@ pract07
 Para realizar los tests de esta práctica usaremos los servicios de la Web: https://travis-ci.org/,
 asociada a nuestras cuentas y repositorios de Github. Para visualizarlos acceder al siguiente enlace:
 
----adjuntar enlace---
+https://travis-ci.org/alu0100207385/prct07
 
 Para ejecutar esta práctica usaremos el comando **rake**.
 Disponemos de las siguientes opciones definidas en el fichero **rakefile** ($rake -T):
