@@ -1,3 +1,5 @@
+require "./lib/racionales.rb"
+require "./lib/gcd.rb"
 
 describe NumerosRacionales do
 

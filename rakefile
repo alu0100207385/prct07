@@ -1,0 +1,20 @@
+
+desc "Ejecutar las espectativas de la clase Racional"
+task :spec_local do
+  sh "rspec -I. spec/racional_spec.rb"
+end
+
+desc "Ejecutar con documentacion"
+task :doc do
+  sh "rspec -I. spec/racional_spec.rb --format documentation"
+end
+
+desc "Ejecutar programa"
+task :bin do
+  sh "ruby bin/main.rb 1 2 3 4"
+end
+
+desc "Ejecutar las espectativas de la clase Racional version html"
+task :thtml do
+  sh "rspec -I. spec/racional_spec.rb --format html"
+end

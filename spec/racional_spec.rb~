@@ -95,7 +95,11 @@ describe NumerosRacionales do
       it " - La fracion es mayor o igual que otra "do
         temp=@r>=@r2
         temp.should eq(true)
-      end   
+      end
+      it " - La fracion es mayor o igual que otra "do
+        temp=@r<=>@r2
+        temp.should eq(1)
+      end     
     end    
     
 end
