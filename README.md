@@ -18,7 +18,7 @@ rake thtml       # Ejecutar las espectativas de la clase Racional version html
 
 Repositorio:
 ```
-https://github.com/alu0100207385/prct07
+git@github.com:alu0100207385/prct07.git
 ```
 
 Ficheros:
