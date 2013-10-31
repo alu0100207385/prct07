@@ -2,12 +2,12 @@ pract07
 =======
 
 Para realizar los tests de esta práctica usaremos los servicios de la Web: https://travis-ci.org/,
-asociada a nuestras cuentas y repositorios de Github. Para visualizarlos acceder al siguiente enlace:
+asociada a nuestra cuentas y repositorio de Github. Para visualizarlos acceder al siguiente enlace:
 
 ---adjuntar enlace---
 
-Para ejecutar esta práctica usaremos el comando **rake**.
-Disponemos de las siguientes opciones definidas en el fichero **rakefile** ($rake -T):
+Para ejectutar esta práctica usaremos el comando $rake
+Disponemos de las siguientes opciones definidas en el fichero rakefile ($rake -T):
 ```
 rake bin         # Ejecutar programa
 rake doc         # Ejecutar con documentacion
